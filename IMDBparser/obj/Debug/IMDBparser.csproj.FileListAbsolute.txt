@@ -1,0 +1,14 @@
+C:\Users\R M G\source\repos\IMDBparser\IMDBparser\bin\Debug\IMDBparser.exe.config
+C:\Users\R M G\source\repos\IMDBparser\IMDBparser\bin\Debug\IMDBparser.exe
+C:\Users\R M G\source\repos\IMDBparser\IMDBparser\bin\Debug\IMDBparser.pdb
+C:\Users\R M G\source\repos\IMDBparser\IMDBparser\obj\Debug\IMDBparser.csprojAssemblyReference.cache
+C:\Users\R M G\source\repos\IMDBparser\IMDBparser\obj\Debug\IMDBparser.FormMain.resources
+C:\Users\R M G\source\repos\IMDBparser\IMDBparser\obj\Debug\IMDBparser.Properties.Resources.resources
+C:\Users\R M G\source\repos\IMDBparser\IMDBparser\obj\Debug\IMDBparser.csproj.GenerateResource.cache
+C:\Users\R M G\source\repos\IMDBparser\IMDBparser\obj\Debug\IMDBparser.csproj.CoreCompileInputs.cache
+C:\Users\R M G\source\repos\IMDBparser\IMDBparser\obj\Debug\IMDBparser.exe
+C:\Users\R M G\source\repos\IMDBparser\IMDBparser\obj\Debug\IMDBparser.pdb
+C:\Users\R M G\source\repos\IMDBparser\IMDBparser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\R M G\source\repos\IMDBparser\IMDBparser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\R M G\source\repos\IMDBparser\IMDBparser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\R M G\source\repos\IMDBparser\IMDBparser\obj\Debug\IMDBparser.csproj.CopyComplete
